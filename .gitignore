@@ -1,0 +1,3 @@
+books.json
+*.epub
+__pycache__/

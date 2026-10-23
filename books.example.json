@@ -1,0 +1,9 @@
+{
+  "jwt": "paste-orm-jwt",
+  "ids": ["9781098115878", "9781098144915"],
+  "pause_every_pages": 10,
+  "pause_seconds": 30,
+  "concurrency": 2,
+  "retries": 5,
+  "output_dir": "downloads"
+}
