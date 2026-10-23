@@ -32,3 +32,15 @@ pip install aiohttp lxml
 ```bash
 python3 donreilly.py <book-id> --jwt '<orm-jwt-token>'
 ```
+
+## Massive download
+
+1.- Copy `books.example.json` to `books.json`
+
+2.- Put your orm-jwt and the book ids in `books.json`
+
+3.- Run it
+
+```bash
+python3 donreilly_massive.py
+```
